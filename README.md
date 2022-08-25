@@ -98,6 +98,7 @@ https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
 
 ### Hackathon 2
 Based on following Dataset:  
+
 https://www.kaggle.com/gpiosenka/100-bird-species
 
 Find Sample Submission in [W6 Folder](W6/Hackathon2_xception.ipynb)
